@@ -31,6 +31,10 @@ a{
     font-size: 10px;
 
 }
+.guide a img{
+    width: 13px;
+    height: 13px;
+}
 
 .guide a{
     margin-left: 60px;
@@ -39,7 +43,7 @@ a{
 .guide:nth-child(3){
     position: absolute;
     top: 15px;
-    left: 1100px;
+    left: 1080px;
     width: 170px;
     height: 30px;
     /*background-color: red;*/
